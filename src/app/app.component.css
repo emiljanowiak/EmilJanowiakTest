@@ -1,0 +1,10 @@
+.fliptodo{
+    text-align: center
+}
+.fliptodo-wrap{
+    margin:30px auto 30px auto;
+    width: 600px;
+    min-height: 800px;
+    border: 2.5px solid green;
+
+}
